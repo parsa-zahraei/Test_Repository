@@ -1,2 +1,5 @@
 Hello World!
+<<<<<<< HEAD
 Welcome to csci2000U
+=======
+>>>>>>> 9e6f85a9f1be0ad73f4cc2e77027625da59597fa
